@@ -142,9 +142,13 @@ Contributions are welcome! Please follow these steps:
 
 Please ensure your code adheres to the existing style and passes all tests.
 
-License
+
+## License
 
 This project is proprietary and confidential. Unauthorized copying, modification, distribution, or use of this software, via any medium, is strictly prohibited without the express permission of Databun.
+
 All rights reserved.
+
 This software is intended for authorized use only. It may be subject to export control laws and regulations. By accessing or using this software, you agree to comply with all applicable laws and regulations.
-For licensing inquiries, please contact sourav@databun.co .
+
+For licensing inquiries, please contact sourav@databun.co.
