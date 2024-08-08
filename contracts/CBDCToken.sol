@@ -1,4 +1,7 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: UNLICENSED
+// Copyright (C) 2024 Databun. All Rights Reserved.
+// This file is part of the CBDCToken project and is proprietary and confidential.
+// Unauthorized copying of this file, via any medium is strictly prohibited.
 pragma solidity ^0.8.18;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
