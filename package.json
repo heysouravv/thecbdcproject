@@ -1,0 +1,17 @@
+{
+  "name": "cbdc-project",
+  "version": "1.0.0",
+  "description": "CBDC Token Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.6",
+    "undici": "^6.19.5"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  }
+}
